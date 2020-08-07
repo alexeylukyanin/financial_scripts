@@ -15,10 +15,10 @@ The module calculates following statistics:
 7. The max number of consecutive losing trades
 8. The max profit on a single trade
 9. The max loss on a single trade
-10. The percentage of trades for this strategy that resulted in a gain ( for example, if the strategy triggers the same trade 100 times, and 70 out of 100 times it results in a profit, it will be a 70% profitable strategy”
+10. The percentage of profitable trades
 11. Average daily gain
 12. Average daily loss
-13. Average hold time per trade (as in how many minutes or hours transpired for the time the buy signal and the sell signal were triggered for the trade.)
+13. Average hold time per trade
 14. Average hold time per winning trade
 15. Average hold time per losing trade
 16. Total gain or loss of the strategy over the specified time the strategy was run
