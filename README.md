@@ -23,3 +23,4 @@ The module calculates following statistics:
 15. Average hold time per losing trade
 16. Total gain or loss of the strategy over the specified time the strategy was run
 
+https://datalize.org/
